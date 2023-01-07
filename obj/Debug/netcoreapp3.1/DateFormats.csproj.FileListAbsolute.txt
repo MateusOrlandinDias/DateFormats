@@ -1,0 +1,14 @@
+C:\dev\DateFormats\bin\Debug\netcoreapp3.1\DateFormats.exe
+C:\dev\DateFormats\bin\Debug\netcoreapp3.1\DateFormats.deps.json
+C:\dev\DateFormats\bin\Debug\netcoreapp3.1\DateFormats.runtimeconfig.json
+C:\dev\DateFormats\bin\Debug\netcoreapp3.1\DateFormats.runtimeconfig.dev.json
+C:\dev\DateFormats\bin\Debug\netcoreapp3.1\DateFormats.dll
+C:\dev\DateFormats\bin\Debug\netcoreapp3.1\DateFormats.pdb
+C:\dev\DateFormats\obj\Debug\netcoreapp3.1\DateFormats.csproj.AssemblyReference.cache
+C:\dev\DateFormats\obj\Debug\netcoreapp3.1\DateFormats.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DateFormats\obj\Debug\netcoreapp3.1\DateFormats.AssemblyInfoInputs.cache
+C:\dev\DateFormats\obj\Debug\netcoreapp3.1\DateFormats.AssemblyInfo.cs
+C:\dev\DateFormats\obj\Debug\netcoreapp3.1\DateFormats.csproj.CoreCompileInputs.cache
+C:\dev\DateFormats\obj\Debug\netcoreapp3.1\DateFormats.dll
+C:\dev\DateFormats\obj\Debug\netcoreapp3.1\DateFormats.pdb
+C:\dev\DateFormats\obj\Debug\netcoreapp3.1\DateFormats.genruntimeconfig.cache
